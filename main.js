@@ -1,4 +1,4 @@
-import * as html2canvas from './html2canvas.js';
+import * as html2canvas from './html2canvas.min.js';
 
 const inputTextElement = document.getElementById('inputText');
 const pElement = document.getElementById('text');
