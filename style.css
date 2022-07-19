@@ -10,7 +10,9 @@ body {
 }
 
 div {
-  width: 50px;
+  left: 250px;
+  top: 70px;
+  position: absolute;
 }
 
 p {
